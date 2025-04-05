@@ -84,6 +84,7 @@ Building on Shadcn UI and Radix UI primitives:
 
 ### Dashboard
 
+- Built from this shadcn ui template: `npx shadcn@latest add dashboard-01`
 - Summary of usage statistics
 - Recent projects grid
 - Quick action buttons for new conversions
